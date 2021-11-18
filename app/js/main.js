@@ -7,4 +7,8 @@ $(function () {
     autoplay: true
   })
 
+  $('[data-fancybox]').fancybox({
+    
+  });
+
 });
