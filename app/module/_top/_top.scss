@@ -1,0 +1,12 @@
+.top {
+  &__container {
+    max-width: 1700px;
+    margin: 0 auto;
+    background-image: url('../images/top-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    padding: 120px 0 130px;
+    text-align: center;
+  }
+}
